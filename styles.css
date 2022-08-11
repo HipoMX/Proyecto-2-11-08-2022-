@@ -1,0 +1,95 @@
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.item {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.item p {
+    display: inline-block;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    margin-top: -5px;
+    margin-top: -5px;
+}
+
+.producto, .postre {
+    text-align: left;
+    width: 75%;
+}
+
+.precio {
+    text-align: right;
+    width: 25%;
+}
+
+.menu {
+    max-width: 500px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: burlywood;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url(https://i0.wp.com/goula.lat/wp-content/uploads/2020/06/cafe%CC%81-.jpg?fit=1000%2C841&ssl=1);
+}
+
+.direccion {
+    text-align: center;
+}
+
+hr {
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 22px;
+}
+
+img {
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/*Footer*/
+
+footer {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: brown;
+}
+
